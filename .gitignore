@@ -1,3 +1,3 @@
 *.dat
 !final.dat
-results/plots/
+results/*
