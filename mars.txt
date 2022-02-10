@@ -4,3 +4,4 @@ But the Mummy will appreciate the lack of humidity
 Venus might be better as a base than Mars
 We removed the conflict on this line
 Mars planes will now be planed using the new computer
+Test from RStudio on M1 Mac
